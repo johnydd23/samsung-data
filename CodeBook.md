@@ -15,3 +15,4 @@ Further information can be found here: http://archive.ics.uci.edu/ml/datasets/Hu
 
 For the purpose oh this course we used only the measurements about the mean and the standard deviation, so 86 variables plus activity and subject with 10299 cases.
 In the run_analysis.R file the R code is given for merging the training and the test data and for consticting a tidy dataset that has for every measurement (variable) of the 86, the mean value for each of the 6 types of activity ( Walking, Walking upstairs, walking downstairs, sitting, standing and laying) and for each different subject.
+
